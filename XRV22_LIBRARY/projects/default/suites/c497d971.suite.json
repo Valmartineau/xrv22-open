@@ -1,0 +1,57 @@
+{
+  "id": "c497d971",
+  "name": "Suite_002",
+  "steps": [
+    {
+      "position_id": "22e66783",
+      "position_name": "Suite_002_001",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "90d24b28",
+      "position_name": "Suite_002_002",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "f211abfb",
+      "position_name": "Suite_002_003",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "1067c408",
+      "position_name": "Suite_002_004",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "40f9c08f",
+      "position_name": "Suite_002_005",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "4c840e42",
+      "position_name": "Suite_002_006",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "a01f2bcd",
+      "position_name": "Suite_002_007",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "46089e7c",
+      "position_name": "Suite_002_008",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    }
+  ],
+  "created_at": "2026-05-07T12:03:55",
+  "modified_at": "2026-05-07T12:03:55",
+  "meta": {}
+}

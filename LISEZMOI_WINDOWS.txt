@@ -1,0 +1,38 @@
+XRV22 PRO V22 — Installation Windows 11
+=========================================
+
+PREREQUIS
+---------
+1. Python 3.10 ou superieur
+   -> https://www.python.org/downloads/
+   IMPORTANT : cocher "Add Python to PATH" lors de l'installation !
+
+2. Tkinter est inclus par defaut avec Python sous Windows.
+
+LANCEMENT
+---------
+Option 1 : Double-cliquer sur "run.bat"
+         (installe les dependances automatiquement)
+
+Option 2 : Double-cliquer sur "run_simulation.bat"
+         (mode simulation sans robot physique)
+
+Option 3 : Ouvrir un terminal (cmd ou PowerShell) dans ce dossier :
+   python -m xrv22.main              # Mode normal
+   python -m xrv22.main --sim        # Mode simulation
+   python -m xrv22.main --debug      # Logs verbeux
+   python -m xrv22.main --sim --debug
+
+STRUCTURE DES FICHIERS
+----------------------
+xrv22/             Code source Python
+XRV22_LIBRARY/     Bibliotheque de projets, positions, suites
+requirements.txt   Dependances Python
+run.bat            Lanceur Windows
+run_simulation.bat Lanceur mode simulation
+
+EN CAS DE PROBLEME
+-------------------
+- "python n'est pas reconnu" : reinstaller Python en cochant "Add to PATH"
+- Erreur Tkinter : reinstaller Python avec l'option "tcl/tk and IDLE"
+- Erreur port serie : verifier que le robot est branche et le driver installe

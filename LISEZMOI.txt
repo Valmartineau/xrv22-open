@@ -1,0 +1,20 @@
+XRV22 PRO V22 — Lancement depuis un terminal
+==============================================
+
+1. Ouvrir un terminal et se placer dans le dossier du projet :
+
+   cd chemin/vers/xrv22-open
+
+2. Lancer l'application :
+
+   python3 -m xrv22.main
+
+Options disponibles :
+
+   python3 -m xrv22.main --sim         # Mode simulation (sans materiel)
+   python3 -m xrv22.main --debug       # Logs verbeux
+   python3 -m xrv22.main --project chemin/vers/projet.xrv22   # Ouvrir un projet specifique
+
+Les options sont combinables :
+
+   python3 -m xrv22.main --sim --debug

@@ -1,0 +1,99 @@
+{
+  "id": "9ba257f8",
+  "name": "grille pain test",
+  "steps": [
+    {
+      "position_id": "c084ba0c",
+      "position_name": "grille pain test_001",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "508b3bd0",
+      "position_name": "grille pain test_002",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "76857b4e",
+      "position_name": "grille pain test_003",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "6826e63f",
+      "position_name": "grille pain test_004",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "677487f2",
+      "position_name": "grille pain test_005",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "4d2a3674",
+      "position_name": "grille pain test_006",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "0679fc9a",
+      "position_name": "grille pain test_007",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "0257b8df",
+      "position_name": "grille pain test_008",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "a2530639",
+      "position_name": "grille pain test_009",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "7e4fa84f",
+      "position_name": "grille pain test_010",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "fd661b52",
+      "position_name": "grille pain test_011",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "680fb741",
+      "position_name": "grille pain test_012",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "c51f967d",
+      "position_name": "grille pain test_013",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "c0fe11ee",
+      "position_name": "grille pain test_014",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "d2c2dbf5",
+      "position_name": "grille pain test_015",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    }
+  ],
+  "created_at": "2026-05-07T11:50:16",
+  "modified_at": "2026-05-07T11:50:16",
+  "meta": {}
+}

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Node / build web
+web/node_modules/
+web/dist/
+
+# Build output servi par FastAPI (genere par `npm run build`)
+xrv22/server/static/
+
+# Runtime / donnees generees
+XRV22_LIBRARY/logs/
+XRV22_LIBRARY/auth_token.json
+XRV22_LIBRARY/**/*.bak
+*.bak
+# Backups de calibration robot generes sur le Mac (debris, non versionnes)
+*.robot.backup-mac-*.json
+
+# Artefacts
+XRV22_PRO_Windows.zip
+
+# OS
+.DS_Store
+.claude/settings.local.json
+public/calibration.json.bak
+.superpowers/
+
+# Graphe de code Graphify (12 Mo, reconstructible : graphify extract . --code-only)
+graphify-out/

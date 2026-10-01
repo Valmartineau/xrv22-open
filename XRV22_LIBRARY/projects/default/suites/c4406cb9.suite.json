@@ -1,0 +1,63 @@
+{
+  "id": "c4406cb9",
+  "name": "Suite_003",
+  "steps": [
+    {
+      "position_id": "04765ccd",
+      "position_name": "Suite_003_001",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "71f9e4ce",
+      "position_name": "Suite_003_002",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "2abbe6c1",
+      "position_name": "Suite_003_003",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "ab551068",
+      "position_name": "Suite_003_004",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "696710e4",
+      "position_name": "Suite_003_005",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "af400a5c",
+      "position_name": "Suite_003_006",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "d476a2bf",
+      "position_name": "Suite_003_007",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "e1bd4970",
+      "position_name": "Suite_003_008",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "d698165b",
+      "position_name": "Suite_003_009",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    }
+  ],
+  "created_at": "2026-05-07T12:08:43",
+  "modified_at": "2026-05-07T12:08:43",
+  "meta": {}
+}

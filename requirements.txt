@@ -1,0 +1,6 @@
+dynamixel-sdk
+pyserial
+fastapi
+uvicorn[standard]
+qrcode
+python-multipart

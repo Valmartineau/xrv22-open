@@ -1,0 +1,285 @@
+{
+  "refSurfaceZ": -50,
+  "axes": {
+    "1": {
+      "pos": [
+        0,
+        0,
+        15.5
+      ],
+      "rotDeg": [
+        0,
+        90,
+        0
+      ],
+      "parentYZ": 0,
+      "childYZ": 0
+    },
+    "4": {
+      "pos": [
+        0,
+        0,
+        260
+      ],
+      "rotDeg": [
+        0,
+        0,
+        0
+      ],
+      "parentYZ": -180,
+      "childYZ": 0
+    },
+    "5": {
+      "pos": [
+        0,
+        0,
+        459.5
+      ],
+      "rotDeg": [
+        0,
+        0,
+        -180
+      ],
+      "parentYZ": -180,
+      "childYZ": 0
+    },
+    "6": {
+      "pos": [
+        0,
+        0,
+        527
+      ],
+      "rotDeg": [
+        0,
+        -90,
+        0
+      ],
+      "parentYZ": -180,
+      "childYZ": 0
+    },
+    "7": {
+      "pos": [
+        0,
+        0,
+        572.5
+      ],
+      "rotDeg": [
+        0,
+        90,
+        0
+      ],
+      "parentYZ": 180,
+      "childYZ": 0
+    },
+    "base": {
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "rotDeg": [
+        0,
+        0,
+        0
+      ],
+      "parentYZ": 0,
+      "childYZ": 0
+    },
+    "2·3": {
+      "pos": [
+        0,
+        0,
+        54
+      ],
+      "rotDeg": [
+        0,
+        0,
+        -180
+      ],
+      "parentYZ": 180,
+      "childYZ": 0
+    }
+  },
+  "pieces": {
+    "Base": {
+      "offset": [
+        0,
+        0,
+        -51
+      ],
+      "rotDeg": [
+        0,
+        0,
+        0
+      ],
+      "axisLocal": [
+        -28.5,
+        -124.2,
+        27.1
+      ],
+      "joint": 0
+    },
+    "Shoulder": {
+      "offset": [
+        0,
+        0,
+        18
+      ],
+      "rotDeg": [
+        0,
+        0,
+        0
+      ],
+      "axisLocal": [
+        50,
+        0.2,
+        15.8
+      ],
+      "joint": null
+    },
+    "UA": {
+      "offset": [
+        7.5,
+        -0.5,
+        54.5
+      ],
+      "rotDeg": [
+        -166,
+        -180,
+        0
+      ],
+      "axisLocal": [
+        -3.7,
+        0,
+        0
+      ],
+      "joint": 2
+    },
+    "Forearm": {
+      "offset": [
+        46.5,
+        1,
+        261.5
+      ],
+      "rotDeg": [
+        -90,
+        -180,
+        0
+      ],
+      "axisLocal": [
+        -23,
+        -1.5,
+        0
+      ],
+      "joint": null
+    },
+    "Wrist": {
+      "offset": [
+        23.5,
+        46,
+        508
+      ],
+      "rotDeg": [
+        -90,
+        -180,
+        0
+      ],
+      "axisLocal": [
+        -11.7,
+        -52.7,
+        5.9
+      ],
+      "joint": null
+    },
+    "Gripper": {
+      "offset": [
+        28,
+        17,
+        526
+      ],
+      "rotDeg": [
+        90,
+        0,
+        -180
+      ],
+      "axisLocal": [
+        -14.2,
+        -25.6,
+        7.4
+      ],
+      "joint": null
+    },
+    "Gripper-Prop": {
+      "offset": [
+        0,
+        69,
+        583
+      ],
+      "rotDeg": [
+        90,
+        -68,
+        0
+      ],
+      "axisLocal": [
+        1.2,
+        -68.4,
+        0.2
+      ],
+      "joint": null
+    },
+    "Gripper-Bar": {
+      "offset": [
+        -27.5,
+        36,
+        541
+      ],
+      "rotDeg": [
+        -90,
+        180,
+        0
+      ],
+      "axisLocal": [
+        14.1,
+        -64.6,
+        32.1
+      ],
+      "joint": null
+    },
+    "Finger": {
+      "offset": [
+        4,
+        3.5,
+        614
+      ],
+      "rotDeg": [
+        90,
+        0,
+        -90
+      ],
+      "axisLocal": [
+        -18.3,
+        0,
+        0
+      ],
+      "joint": 6
+    },
+    "Finger#2": {
+      "offset": [
+        43,
+        3,
+        623
+      ],
+      "rotDeg": [
+        90,
+        -180,
+        -90
+      ],
+      "axisLocal": [
+        -28.5,
+        0,
+        0
+      ],
+      "joint": 6
+    }
+  }
+}

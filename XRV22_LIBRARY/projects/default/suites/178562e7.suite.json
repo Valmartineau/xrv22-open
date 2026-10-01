@@ -1,0 +1,57 @@
+{
+  "id": "178562e7",
+  "name": "Toast",
+  "steps": [
+    {
+      "position_id": "3c54eb11",
+      "position_name": "Toast_001",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "12b7fc31",
+      "position_name": "Toast_002",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "b68fa93e",
+      "position_name": "Toast_003",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "422f6c27",
+      "position_name": "Toast_004",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "be5ba095",
+      "position_name": "Toast_005",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "cecea22c",
+      "position_name": "Toast_006",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "9998b53f",
+      "position_name": "Toast_007",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "04146368",
+      "position_name": "Toast_008",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    }
+  ],
+  "created_at": "2026-04-20T15:01:53",
+  "modified_at": "2026-04-20T15:01:53",
+  "meta": {}
+}

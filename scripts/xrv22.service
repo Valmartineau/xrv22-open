@@ -1,0 +1,32 @@
+[Unit]
+Description=XRV22 PRO — UI tactile Pi + serveur API/WS/Web
+# Demarre apres que le serveur graphique X soit pret (necessaire pour Tk)
+After=graphical.target network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=amniort
+Group=amniort
+WorkingDirectory=/home/amniort/xrv22
+
+# Environnement minimal pour Tkinter sur l'ecran tactile officiel Pi
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/amniort/.Xauthority
+Environment=PYTHONUNBUFFERED=1
+
+# Le run-xrv22.sh contient pip install + lancement (cf script existant
+# dans /home/amniort/xrv22/run-xrv22.sh utilise par maj-xrv22-pi).
+ExecStart=/usr/bin/python3 -m xrv22.main_pi
+Restart=on-failure
+RestartSec=3
+# Donne 30s pour shutdown propre (parking robots) avant SIGKILL
+TimeoutStopSec=30
+KillSignal=SIGTERM
+
+# Logs vers journald (consultables via `journalctl -u xrv22 -f`)
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=graphical.target

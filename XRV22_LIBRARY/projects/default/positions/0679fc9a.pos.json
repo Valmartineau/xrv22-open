@@ -1,0 +1,19 @@
+{
+  "id": "0679fc9a",
+  "name": "grille pain test_007",
+  "category": "sauvegardees",
+  "positions": {
+    "1": 2134,
+    "2": 2290,
+    "3": 2318,
+    "4": 1932,
+    "5": 2821,
+    "6": 1065,
+    "7": 1956
+  },
+  "created_at": "2026-05-07T11:50:16",
+  "modified_at": "2026-05-07T11:50:16",
+  "meta": {
+    "color": ""
+  }
+}

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  margin: 0;
+  height: 100%;
+  background: #1e2130;
+  color: #e6e6e6;
+  font-family: "DIN Alternate", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbars discrètes (cohérent dark) */
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-track { background: #1e2130; }
+*::-webkit-scrollbar-thumb { background: #2a2e40; border-radius: 5px; }
+*::-webkit-scrollbar-thumb:hover { background: #3a3e52; }

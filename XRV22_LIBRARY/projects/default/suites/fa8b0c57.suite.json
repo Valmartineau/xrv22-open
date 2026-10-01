@@ -1,0 +1,51 @@
+{
+  "id": "fa8b0c57",
+  "name": "Suite_001",
+  "steps": [
+    {
+      "position_id": "7e0bb505",
+      "position_name": "Suite_001_001",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "4afde7d4",
+      "position_name": "Suite_001_002",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "4cccce2a",
+      "position_name": "Suite_001_003",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "2204e7f7",
+      "position_name": "Suite_001_004",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "586c1187",
+      "position_name": "Suite_001_005",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "e3b61684",
+      "position_name": "Suite_001_006",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    },
+    {
+      "position_id": "f29f2e6a",
+      "position_name": "Suite_001_007",
+      "duration_s": 2.0,
+      "pause_s": 0.0
+    }
+  ],
+  "created_at": "2026-03-12T16:09:39",
+  "modified_at": "2026-03-17T10:31:43",
+  "meta": {}
+}

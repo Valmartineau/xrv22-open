@@ -1,0 +1,92 @@
+{
+  "id": "78d9ccac",
+  "name": "BRIOCHE",
+  "suite_ids": [],
+  "triggers": [],
+  "timeline_data": {
+    "name": "BRIOCHE",
+    "track_order": [
+      "track_robot_1",
+      "track_robot_4",
+      "track_robot_3",
+      "track_robot_5",
+      "track_robot_2",
+      "track_arduino",
+      "track_sensors"
+    ],
+    "tracks": [
+      {
+        "track_id": "track_arduino",
+        "track_type": "ARDUINO",
+        "label": "Arduino",
+        "color": "#38bdf8",
+        "robot_id": "",
+        "visible": true,
+        "muted": false,
+        "events": []
+      },
+      {
+        "track_id": "track_sensors",
+        "track_type": "SENSOR",
+        "label": "Capteurs",
+        "color": "#4ade80",
+        "robot_id": "",
+        "visible": true,
+        "muted": false,
+        "events": []
+      },
+      {
+        "track_id": "track_robot_1",
+        "track_type": "ROBOT",
+        "label": "Robot robot_1",
+        "color": "#f6a117",
+        "robot_id": "robot_1",
+        "visible": true,
+        "muted": false,
+        "events": []
+      },
+      {
+        "track_id": "track_robot_4",
+        "track_type": "ROBOT",
+        "label": "Robot robot_4",
+        "color": "#e040fb",
+        "robot_id": "robot_4",
+        "visible": true,
+        "muted": false,
+        "events": []
+      },
+      {
+        "track_id": "track_robot_3",
+        "track_type": "ROBOT",
+        "label": "Robot robot_3",
+        "color": "#00e5ff",
+        "robot_id": "robot_3",
+        "visible": true,
+        "muted": false,
+        "events": []
+      },
+      {
+        "track_id": "track_robot_5",
+        "track_type": "ROBOT",
+        "label": "Robot robot_5",
+        "color": "#76ff03",
+        "robot_id": "robot_5",
+        "visible": true,
+        "muted": false,
+        "events": []
+      },
+      {
+        "track_id": "track_robot_2",
+        "track_type": "ROBOT",
+        "label": "Robot robot_2",
+        "color": "#ff6e40",
+        "robot_id": "robot_2",
+        "visible": true,
+        "muted": false,
+        "events": []
+      }
+    ]
+  },
+  "created_at": "2026-03-18T03:08:19",
+  "modified_at": "2026-03-18T09:42:24"
+}
